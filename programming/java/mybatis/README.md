@@ -3,7 +3,7 @@
 <b>Maven</b>
 <p>
 
-```
+```xml
 <!-- https://mvnrepository.com/artifact/org.mybatis/mybatis -->
 <dependency>
     <groupId>org.mybatis</groupId>
